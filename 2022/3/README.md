@@ -12,7 +12,7 @@
 * [Tapok](./Tapok/)
 * [wesje101](./wesje101/)
 * [jen_abbott](./jen_abbott/)
-* [Arvid 💀](./Arvid 💀/)
+* [Arvid](./Arvid/)
 * [Vladyoyo](./Vladyoyo/)
 * [BlliZzi](./BlliZzi/)
 * [mariano2693](./mariano2693/)
