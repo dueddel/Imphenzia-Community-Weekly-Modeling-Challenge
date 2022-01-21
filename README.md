@@ -1,6 +1,6 @@
 # Weekly Modeling Challenge of the Imphenzia Discord community
 
-Here you can find the theme of all calendar weeks in reverse order (latest first).
+Here you can find all challenges' themes sorted by calendar week (in reverse order to always have the latest one at the top).
 
 
 ## 2022 Themes
