@@ -8,7 +8,7 @@
 
 ## Submissions
 
-* [Crème de la WreckedEm™](./Crème de la WreckedEm™/)
+* [Crème de la WreckedEm™](./WreckedEm/)
 * [Tapok](./Tapok/)
 * [wesje101](./wesje101/)
 * [jen_abbott](./jen_abbott/)
