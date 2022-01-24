@@ -29,4 +29,4 @@
 | <img src="././AlexRak2/untitled.png" height="150" /> | [AlexRak2](./AlexRak2/) |
 | <img src="././Rosman/gun.png" height="150" /> | [Rosman](./Rosman/) |
 | <img src="././AnswerEagle/Revolver.png" height="150" /> | [AnswerEagle](./AnswerEagle/) |
-| <img src="././Captain Quertz/untitled.png" height="150" /> | [Captain late as usual](./Captain Quertz/) |
+| <img src="././Captain/untitled.png" height="150" /> | [Captain late as usual](./Captain/) |
