@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 4: `Entrance`](./2022/4/)
 * [Week 3: `Guns`](./2022/3/)
 * Week 2: `Fantasy`
 * Week 1: `Minecraft`
@@ -14,4 +15,3 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 * Week 52: `Tanks`
 * Week 51: `Sci-Fi Mecha`
-
