@@ -8,8 +8,6 @@
 
 ## Submissions
 
-<!--
 | Made | By |
 |------|----|
-| <img src="./render.png" height="150" /> | [name](./path/) |
--->
+| <img src="./jen_abbott/jen-abbott-mine-entrance-jan2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
