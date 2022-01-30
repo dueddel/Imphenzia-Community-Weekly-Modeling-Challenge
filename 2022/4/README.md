@@ -14,3 +14,4 @@
 | <img src="./Ecto/unknown.png" height="150" /> | [Ecto](./Ecto/) |
 | <img src="./Arvid/entrance.gif" height="150" /> | [Arvid](./Arvid/) |
 | <img src="./betovf/the-expanse-ring.png" height="150" /> | [betovf](./betovf/) |
+| <img src="./BlliZzi/BlliZzi_Entrance.png" height="150" /> | [BlliZzi](./BlliZzi/) |
