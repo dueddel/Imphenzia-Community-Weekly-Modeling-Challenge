@@ -16,3 +16,5 @@
 | <img src="./betovf/the-expanse-ring.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./BlliZzi/BlliZzi_Entrance.png" height="150" /> | [BlliZzi](./BlliZzi/) |
 | <img src="./eLIaS/castle_entrance.png" height="150" /> | [eLIaS](./eLIaS/) |
+| <img src="./Anasimov10/Enctrance.png" height="150" /> | [Anasimov10](./Anasimov10/) |
+| <img src="./Kaffe/shiva_comp.png" height="150" /> | [Kaffe](./Kaffe/) |
