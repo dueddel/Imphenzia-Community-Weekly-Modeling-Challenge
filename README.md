@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 6: `Movie Monsters`](./2022/6/)
 * [Week 5: `80s`](./2022/5/)
 * [Week 4: `Entrance`](./2022/4/)
 * [Week 3: `Guns`](./2022/3/)
