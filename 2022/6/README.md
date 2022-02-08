@@ -10,4 +10,4 @@
 
 | Made | By |
 |------|----|
-| <img src="./render.png" height="150" /> | [name](./path/) |
+| <img src="./TitaniumRat/Jason.png" height="150" /> | [Titanium Rat](./TitaniumRat/) |
