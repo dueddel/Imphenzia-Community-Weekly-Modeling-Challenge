@@ -23,3 +23,6 @@
 | <img src="./betovf/floating-island.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./camtom92/FloatingIsland-1.png" height="150" /> | camtom92 <!--[camtom92](./camtom92/)--> |
 | <img src="./BlliZzi/FloatingIsland.png" height="150" /> | [BlliZzi](./BlliZzi/) |
+| <img src="./VitoshiButermoto/VBFloatingIslandSubmissionPrev.png" height="150" /> | [Vitoshi Butermoto](./VitoshiButermoto/) |
+| <img src="./HugiHugison/Floating_Island.png" height="150" /> | [Hugi Hugison](./HugiHugison/) |
+| <img src="./Rosman/discord.png" height="150" /> | [Rosman](./Rosman/) |
