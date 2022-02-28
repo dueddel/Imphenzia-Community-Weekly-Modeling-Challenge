@@ -19,5 +19,8 @@
 | <img src="./jaX/Game_Controller.png" height="150" /> | [ʝǟӼ](./jaX/) |
 | <img src="./VitoshiButermoto/VBGameControllerPrev.png" height="150" /> | [Vitoshi Butermoto](./VitoshiButermoto/) |
 | <img src="./betovf/nes-gamepad.png" height="150" /> | [betovf](./betovf/) |
-| <img src="./ThisModernDay/atari5200.png" height="150" /> | [This Modern Day](./ThisModernDay/) |
 | <img src="./jen_abbott/jen-abbott-game-controller-feb2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
+| <img src="./ThisModernDay/atari5200.png" height="150" /> | [This Modern Day](./ThisModernDay/) |
+| <img src="./Kaffe/TAC-2ControllerSubmission2048.png" height="150" /> | [Kaffe](./Kaffe/) |
+| <img src="./BlliZzi/Gamepad.png" height="150" /> | [BlliZzi](./BlliZzi/) |
+| <img src="./Obel/ragequit.png" height="150" /> | [Obel](./Obel/) |
