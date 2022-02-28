@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 9: `Spaceships`](./2022/9/)
 * [Week 8: `Game controller`](./2022/8/)
 * [Week 7: `Floating Island`](./2022/7/)
 * [Week 6: `Movie Monsters`](./2022/6/)
