@@ -24,3 +24,5 @@
 | <img src="./Kaffe/TAC-2ControllerSubmission2048.png" height="150" /> | [Kaffe](./Kaffe/) |
 | <img src="./BlliZzi/Gamepad.png" height="150" /> | [BlliZzi](./BlliZzi/) |
 | <img src="./Obel/ragequit.png" height="150" /> | [Obel](./Obel/) |
+| <img src="./Shanti/controller.png" height="150" /> | Shanti<!--[Shanti](./Shanti/)--> |
+| <img src="./palash/controller_something_better_than_other_controllers.png" height="150" /> | [palash](./palash/) |
