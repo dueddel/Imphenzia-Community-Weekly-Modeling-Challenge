@@ -5,4 +5,4 @@ Here you can find the WMC winners whose submissions have been rendered as an emo
 
 | WMC | Submission | Made by | Emoji |
 |---|---|---|---|
-| [2022-3 `Guns`](./../2022/3/) | <img src="./../2022/3/./Rosman/gun.png" height="150" /> | [Rosman](./../2022/3/Rosman/) | <img src="./rosman_rifle.png" height="150" /> |
+| [2022-3 `Guns`](./../2022/3/) | <img src="./../2022/3/./Rosman/gun.png" height="150" /> | [Rosman](./../2022/3/Rosman/) | <img src="./2022-3_rosman_rifle.png" /> |
