@@ -16,7 +16,7 @@
 | <img src="./Captainlateasusual/untitled.png" height="150" /> | [Captain late as usual](./Captainlateasusual/) |
 | <img src="./ThisModernDay/ship.png" height="150" /> | [This Modern Day](./ThisModernDay/) |
 | <img src="./cill/ss.png" height="150" /> | [cill](./cill/) |
-| <img src="./customchris/RedRocketInn.jpg" height="150" /> | [customchris](./customchris/) |
+| <img src="./customchris/NukeCola_Rocket.jpg" height="150" /> | [customchris](./customchris/) |
 | <img src="./palash/untitled.png" height="150" /> | [palash](./palash/) |
 | <img src="./betovf/razorback-spaceship.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./Kunstller/Spaceship.png" height="150" /> | [Kunstller](./Kunstller/) |
@@ -28,3 +28,8 @@
 | <img src="./Morkham/Tin_Tin_C.png" height="150" /> | [Morkham](./Morkham/) |
 | <img src="./Morkham/Recharging.png" height="150" /> | [Morkham](./Morkham/) |
 | <img src="./Rossybossy235/LowPolyTIEFighter.png" height="150" /> | [Rossybossy235](./Rossybossy235/) |
+| <img src="./Ecto/unknown.png" height="150" /> | [Ecto](./Ecto/) |
+| <img src="./BlliZzi/Spaceship_Challenge.png" height="150" /> | [BlliZzi](./BlliZzi/) |
+| <img src="./WreckedEm/imphenzia_wmc_starfighter.png" height="150" /> | Crème de la WreckedEm™<!--[Crème de la WreckedEm™](./WreckedEm/)--> |
+| <img src="./Captainlateasusual/Carrier Y-4.2.jpg" height="150" /> | [Captain late as usual](./Captainlateasusual/) |
+| <img src="./Arvid/handsome-spaceship.jpg" height="150" /> | [Arvid 💀](./Arvid/) |
