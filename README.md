@@ -5,6 +5,8 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 12: `Dragons`](./2022/12/)
+* [Week 11: `Car`](./2022/11/)
 * [Week 10: `Burglars and thieves`](./2022/10/)
 * [Week 9: `Spaceships`](./2022/9/)
 * [Week 8: `Game controller`](./2022/8/)
