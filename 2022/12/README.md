@@ -14,3 +14,5 @@
 | <img src="./RobinLamb/LowPolyDragon.png" height="150" /> | [RobinLamb](./RobinLamb/) |
 | <img src="./RikuA/draggo_cycles.png" height="150" /> | [Riku A](./RikuA/) |
 | <img src="./customchris/DragonS.jpg" height="150" /> | [customchris](./customchris/) |
+| <img src="./betovf/dragon.png" height="150" /> | [betovf](./betovf/) |
+| <img src="./AvocadoFire/DragonSmoke.png" height="150" /> | [AvocadoFire](./AvocadoFire/) |
