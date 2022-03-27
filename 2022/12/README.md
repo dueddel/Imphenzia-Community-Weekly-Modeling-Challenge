@@ -17,3 +17,5 @@
 | <img src="./betovf/dragon.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./AvocadoFire/DragonSmoke.png" height="150" /> | [AvocadoFire](./AvocadoFire/) |
 | <img src="./Dom/Dragon.png" height="150" /> | [Dom](./Dom/) |
+| <img src="./Vladyoyo/dragon_3-4.png" height="150" /> | [Vladyoyo](./Vladyoyo/) |
+| <img src="./Littledoom/unknown.png" height="150" /> | [Littledoom](./Littledoom/) |
