@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 13: `Crates and Barrels`](./2022/13/)
 * [Week 12: `Dragons`](./2022/12/)
 * [Week 11: `Car`](./2022/11/)
 * [Week 10: `Burglars and thieves`](./2022/10/)
