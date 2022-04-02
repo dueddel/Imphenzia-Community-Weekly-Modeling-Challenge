@@ -19,3 +19,4 @@
 | <img src="./Arvid/crate.png" height="150" /> | [Arvid 💀](./Arvid/) |
 | <img src="./fernandolv3/202241205645.png" height="150" /> | [fernandolv3](./fernandolv3/) |
 | <img src="./customchris/Drum_1.png" height="150" /> | [customchris](./customchris/) |
+| <img src="./Ecto/unknown.png" height="150" /> | [Ecto](./Ecto/) |
