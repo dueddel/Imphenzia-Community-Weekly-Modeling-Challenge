@@ -23,3 +23,7 @@
 | <img src="./Mishu/Bad_Chest_II.png" height="150" /> | [Mishu](./Mishu/) |
 | <img src="./Kaffe/renderpost.jpg" height="150" /> | [Kaffe](./Kaffe/) |
 | <img src="./Shakazul/Crate.PNG" height="150" /> | [Shakazul](./Shakazul/) |
+| <img src="./BlliZzi/Chest_Challenge.png" height="150" /> | [BlliZzi](./BlliZzi/) |
+| <img src="./BooliBoo/Box_dynamite_002.png" height="150" /> | [BooliBoo](./BooliBoo/) |
+| <img src="./Obel/crates_and_barrel.png" height="150" /> | [Obel](./Obel/) |
+| <img src="./Dom/Barrel.png" height="150" /> | [Dom](./Dom/) |
