@@ -20,3 +20,6 @@
 | <img src="./betovf/wild-wild-west-scenery.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./GrindillKhan/Weekly_Wild_West_GrindillKhan.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
 | <img src="./Mishu/Wild_West_Challenge_Mishu.png" height="150" /> | [Mishu](./Mishu/) |
+| <img src="./AvocadoFire/AWildWest.png" height="150" /> | [AvocadoFire](./AvocadoFire/) |
+| <img src="./RobinLamb/sheriffsofficeandgallows.png" height="150" /> | [RobinLamb](./RobinLamb/) |
+| <img src="./Kaffe/drop.jpg" height="150" /> | [Kaffe](./Kaffe/) |
