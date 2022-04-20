@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 16: `City Buildings`](./2022/16/)
 * [Week 15: `Easter`](./2022/15/)
 * [Week 14: `Wild Wild West`](./2022/14/)
 * [Week 13: `Crates and Barrels`](./2022/13/)

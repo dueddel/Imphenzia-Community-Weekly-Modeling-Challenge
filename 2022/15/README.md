@@ -17,3 +17,5 @@
 | <img src="./WigHz/weekly_modelling_challange_01.png" height="150" /> | [WigHz](./WigHz/) |
 | <img src="./RobinLamb/resurrection.png" height="150" /> | [RobinLamb](./RobinLamb/) |
 | <img src="./AvocadoFire/Easter.png" height="150" /> | [AvocadoFire](./AvocadoFire/) |
+| <img src="./RikuA/eggo.gif" height="150" /> | [Riku A](./RikuA/) |
+| <img src="./Kaffe/eastersubpost.jpg" height="150" /> | [Kaffe](./Kaffe/) |
