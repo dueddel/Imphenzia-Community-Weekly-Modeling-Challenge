@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 18: `Radios and other Audio Devices`](./2022/18/)
 * [Week 17: `Your Favorite Snack`](./2022/17/)
 * [Week 16: `City Buildings`](./2022/16/)
 * [Week 15: `Easter`](./2022/15/)

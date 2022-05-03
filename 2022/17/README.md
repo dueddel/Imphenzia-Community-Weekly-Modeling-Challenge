@@ -23,3 +23,6 @@
 | <img src="./KubaR/HappyMeal_by_JR.jpg" height="150" /> | [KubaR](./KubaR/) |
 | <img src="./DartVonGrell/Croissant_Solid.jpg" height="150" /> | [Dart Von Grell](./DartVonGrell/) |
 | <img src="./Arvid/oreo.png" height="150" /> | [Arvid 💀](./Arvid/) |
+| <img src="./Jisilra/Apple_09.png" height="150" /> | [Jisilra](./Jisilra/) |
+| <img src="./Obel/marzipan.png" height="150" /> | [Obel](./Obel/) |
+| <img src="./vlena/Kitten_love_milk2.png" height="150" /> | [vlena](./vlena/) |
