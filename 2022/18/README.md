@@ -20,3 +20,5 @@
 | <img src="./DartVonGrell/MP3_Player_Render.jpg" height="150" /> | [Dart Von Grell](./DartVonGrell/) |
 | <img src="./Shakazul/retro_radio.png" height="150" /> | [Shakazul](./Shakazul/) |
 | <img src="./betovf/gramophone.png" height="150" /> | [betovf](./betovf/) |
+| <img src="./Brys/FinishedBoomBox.png" height="150" /> | [Brys](./Brys/) |
+| <img src="./customchris/MIc1.png" height="150" /> | [customchris](./customchris/) |
