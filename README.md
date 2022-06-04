@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 21: `Headgear`](./2022/22/)
 * [Week 21: `Sword`](./2022/21/)
 * [Week 20: `Castle`](./2022/20/)
 * [Week 19: `Sea Life`](./2022/19/)
