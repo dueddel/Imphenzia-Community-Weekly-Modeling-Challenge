@@ -24,3 +24,4 @@
 | <img src="./Brys/FirstDarth.png" height="150" /> | [Brys](./Brys/) |
 | <img src="./jen_abbott/jsa-headgear-june2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
 | <img src="./vlena/panda2.png" height="150" /> | [vlena](./vlena/) |
+| <img src="./RikuA/myssy.png" height="150" /> | [Riku A](./RikuA/) |
