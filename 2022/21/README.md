@@ -25,7 +25,7 @@
 | <img src="./customchris/Psword.png" height="150" /> | [customchris](./customchris/) |
 | <img src="./jen_abbott/jsa-sword-may2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
 | <img src="./camtom92/SwordPicture.png" height="150" /> | [camtom92](./camtom92/) |
-| <img src="./Komodo/broadsword.png" height="150" /> | Komodo<!--[Komodo](./Komodo/) -->|
+| <img src="./Komodo/broadsword.png" height="150" /> | [Komodo](./Komodo/) |
 | <img src="./Jisilra/Sword_05.png" height="150" /> | [Jisilra](./Jisilra/) |
 | <img src="./customchris/MCSword.png" height="150" /> | [customchris](./customchris/) |
 | <img src="./Ecto/Stylized_sword.png" height="150" /> | [Ecto](./Ecto/) |
