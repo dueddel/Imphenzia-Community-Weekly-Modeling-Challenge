@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 25: `Farm vehicles`](./2022/25/)
 * [Week 24: `Farm tools`](./2022/24/)
 * [Week 23: `Farm animals`](./2022/23/)
 * [Week 22: `Headgear`](./2022/22/)
