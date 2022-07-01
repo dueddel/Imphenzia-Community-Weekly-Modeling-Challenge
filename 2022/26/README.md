@@ -23,4 +23,5 @@
 | <img src="./wesje101/SmallGif.gif" height="150" /> | [wesje101](./wesje101/) |
 | <img src="./CommanderMEmeBois/Crystal_necklace.png" height="150" /> | [Commander MEmeBois](./CommanderMEmeBois/) |
 | <img src="./betovf/crystal.gif" height="150" /> | [betovf](./betovf/) |
-| <img src="./CaptainQ/0001-0060.gif" height="150" /> | [Captain Q, big phisolopher](./CaptainQ/) |
+| <img src="./CaptainQ/QuertzsCrystal.gif" height="150" /> | [Captain Q, big phisolopher](./CaptainQ/) |
+| <img src="./GrindillKhan/Weekly_Crystals_GrindillKhan.gif" height="150" /> | [GrindillKhan](./GrindillKhan/) |
