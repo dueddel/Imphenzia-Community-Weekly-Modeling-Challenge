@@ -25,3 +25,7 @@
 | <img src="./betovf/crystal.gif" height="150" /> | [betovf](./betovf/) |
 | <img src="./CaptainQ/QuertzsCrystal.gif" height="150" /> | [Captain Q, big phisolopher](./CaptainQ/) |
 | <img src="./GrindillKhan/Weekly_Crystals_GrindillKhan.gif" height="150" /> | [GrindillKhan](./GrindillKhan/) |
+| <img src="./HosseinSe/untitled6.png" height="150" /> | [Hossein Se](./HosseinSe/) |
+| <img src="./customchris/6lk539.gif" height="150" /> | [customchris](./customchris/) |
+| <img src="./customchris/6lk6sk.gif" height="150" /> | [customchris](./customchris/) |
+| <img src="./Vladyoyo/1656771700775.png" height="150" /> | [Vladyoyo](./Vladyoyo/) |
