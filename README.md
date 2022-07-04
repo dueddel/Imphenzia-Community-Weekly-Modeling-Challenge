@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 27: `Hallway / Corridor`](./2022/27/)
 * [Week 26: `Crystals and Gems`](./2022/26/) ⭐
 * [Week 25: `Farm vehicles`](./2022/25/)
 * [Week 24: `Farm tools`](./2022/24/)
