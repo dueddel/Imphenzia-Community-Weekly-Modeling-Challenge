@@ -24,3 +24,5 @@
 | <img src="./jen_abbott/jsa-scifi-corridor-july2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
 | <img src="./Corentin_dscl/TUNNEL.gif" height="150" /> | [Corentin_dscl](./Corentin_dscl/) |
 | <img src="./Chugga/skyhall.png" height="150" /> | [Chugga](./Chugga/) |
+| <img src="./RikuA/Kongi_night.png" height="150" /> | [Riku A](./RikuA/) |
+| <img src="./RobinLamb/castlecorridor.png" height="150" /> | [RobinLamb](./RobinLamb/) |
