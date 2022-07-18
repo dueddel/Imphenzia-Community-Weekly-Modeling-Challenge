@@ -21,3 +21,6 @@
 | <img src="./Obel/cello.png" height="150" /> | [Obel](./Obel/) |
 | <img src="./GrindillKhan/Weekly_Musical_Instrument_GrindillKhan.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
 | <img src="./Scabbers/Violin.png" height="150" /> | [Scabbers](./Scabbers/) |
+| <img src="./RikuA/Kantele.png" height="150" /> | [Riku A](./RikuA/) |
+| <img src="./customchris/ocarinaOfTime.png" height="150" /> | [customchris](./customchris/) |
+| <img src="./RobinLamb/Piano.png" height="150" /> | [RobinLamb](./RobinLamb/) |
