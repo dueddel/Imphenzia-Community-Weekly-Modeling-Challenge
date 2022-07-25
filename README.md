@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 29: `Throne`](./2022/29/)
 * [Week 28: `Music Instruments`](./2022/28/)
 * [Week 27: `Hallway / Corridor`](./2022/27/)
 * [Week 26: `Crystals and Gems`](./2022/26/) ⭐
