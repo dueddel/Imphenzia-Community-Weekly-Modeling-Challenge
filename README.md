@@ -5,6 +5,14 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 39: `Phone`](./2022/39/) ⭐
+* [Week 38: `Flower/Plant/Tree`](./2022/38/)
+* [Week 37: `Armored Vehicles`](./2022/37/)
+* [Week 36: `Edible Swords`](./2022/36/)
+* [Week 35: `Coffee / Hot Chocolate / Tea`](./2022/35/) ⭐
+* [Week 34: `Robots`](./2022/34/)
+* [Week 33: `Octopus / Kraken`](./2022/33/)
+* [Week 32: `Face`](./2022/32/)
 * [Week 31: `Moon Base`](./2022/31/)
 * [Week 30: `Bugs`](./2022/30/) ⭐
 * [Week 29: `Throne`](./2022/29/)
