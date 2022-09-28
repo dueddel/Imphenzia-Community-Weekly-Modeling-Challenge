@@ -15,6 +15,7 @@
 | <img src="./customchris/JunkRobot2k.png" height="150" /> | [customchris](./customchris/) |
 | <img src="./Veltana/botboijpeg.jpg" height="150" /> | [Veltana](./Veltana/) |
 | <img src="./jen_abbott/robot-jsa-aug2022.png" height="150" /> | [jen_abbott](./jen_abbott/) |
+| <img src="./CommanderMEmeBois/NurseRobo.png" height="150" /> | [Commander MEmeBois](./CommanderMEmeBois/) |
 | <img src="./savedata/unknown.png" height="150" /> | [savedata](./savedata/) |
 | <img src="./GhostyFab/BlueDabadei.PNG" height="150" /> | [GhostyFab](./GhostyFab/) |
 | <img src="./RobinLamb/robot_regular.png" height="150" /> | [RobinLamb](./RobinLamb/) |
