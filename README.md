@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 40: `Zombies`](./2022/40/)
 * [Week 39: `Phone`](./2022/39/) ⭐
 * [Week 38: `Flower/Plant/Tree`](./2022/38/)
 * [Week 37: `Armored Vehicles`](./2022/37/)
