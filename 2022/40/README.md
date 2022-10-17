@@ -11,3 +11,4 @@
 | Made | By |
 |------|----|
 | <img src="./betovf/zombie-head.png" height="150" /> | [betovf](./betovf/) |
+| <img src="./RikuA/braaains.png" height="150" /> | [Riku A](./RikuA/) |
