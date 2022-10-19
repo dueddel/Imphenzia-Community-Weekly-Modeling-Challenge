@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 42: `Halloween Decoration`](./2022/42/)
 * [Week 41: `Spooky Places`](./2022/41/)
 * [Week 40: `Zombies`](./2022/40/)
 * [Week 39: `Phone`](./2022/39/) ⭐
