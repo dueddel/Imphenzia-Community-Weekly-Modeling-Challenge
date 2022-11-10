@@ -16,3 +16,6 @@
 | <img src="./betovf/spider-web.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./GrindillKhan/Weekly_Halloween_Decoration__GrindillKhan.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
 | <img src="./HosseinSe/render.png" height="150" /> | [Hossein Se](./HosseinSe/) |
+| <img src="./RikuA/sheet.png" height="150" /> | [Riku A](./RikuA/) |
+| <img src="./palash/ACCTUAL_THING.png" height="150" /> | [palash](./palash/) |
+| <img src="./Ammara/Halloween_2022_Final_Render_Evee.png" height="150" /> | [Ammara](./Ammara/) |

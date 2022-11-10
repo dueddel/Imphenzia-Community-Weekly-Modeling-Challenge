@@ -5,6 +5,9 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 45: `Swiss Army Knife`](./2022/45/)
+* [Week 44: `Sewers`](./2022/44/)
+* [Week 43: `Halloween Costumes`](./2022/43/) ⭐
 * [Week 42: `Halloween Decoration`](./2022/42/)
 * [Week 41: `Spooky Places`](./2022/41/)
 * [Week 40: `Zombies`](./2022/40/)
