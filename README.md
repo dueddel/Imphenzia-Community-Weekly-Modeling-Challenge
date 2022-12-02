@@ -5,6 +5,9 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
+* [Week 48: `Coins`](./2022/48/) ⭐
+* [Week 47: `Vikings`](./2022/47/)
+* [Week 46: `Library`](./2022/46/)
 * [Week 45: `Swiss Army Knife`](./2022/45/)
 * [Week 44: `Sewers`](./2022/44/)
 * [Week 43: `Halloween Costumes`](./2022/43/) ⭐
