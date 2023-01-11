@@ -11,8 +11,8 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2022 Themes
 
-* [Week 52: `Fireworks`](./2022/51/)
-* [Week 51: `Winter / Christmas`](./2022/52/)
+* [Week 52: `Fireworks`](./2022/52/)
+* [Week 51: `Winter / Christmas`](./2022/51/)
 * [Week 50: `Australia`](./2022/50/)
 * [Week 49: `Helicopters`](./2022/49/)
 * [Week 48: `Coins`](./2022/48/) ⭐
