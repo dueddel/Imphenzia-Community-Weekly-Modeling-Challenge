@@ -3,6 +3,12 @@
 Here you can find all challenges' themes sorted by calendar week (in reverse order to always have the latest one at the top).
 
 
+## 2023 Themes
+
+* [Week 2: `Car`](./2023/2/)
+* [Week 1: `Isometric room`](./2023/1/)
+
+
 ## 2022 Themes
 
 * [Week 52: `Fireworks`](./2022/51/)
