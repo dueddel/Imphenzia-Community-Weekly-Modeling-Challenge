@@ -8,9 +8,6 @@
 
 ## Submissions
 
-Following soon.
-<!--
 | Made | By |
 |------|----|
-| <img src="./name/render.png" height="150" /> | [name](./name/) |
--->
+| <img src="./Veltana/fastestcar.png" height="150" /> | [Veltana](./Veltana/) |
