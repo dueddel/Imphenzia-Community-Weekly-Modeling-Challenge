@@ -15,6 +15,7 @@
 | <img src="./customchris/beachRoom.png" height="150" /> | [customchris](./customchris/) |
 | <img src="./wesje101/IsometricRoom2.png" height="150" /> | [wesje101](./wesje101/) |
 | <img src="./GrindillKhan/Weekly_Iso_Room__GrindillKhan.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
+| <img src="./jen_abbott/isometric-room-jan2023-jsa.png" height="150" /> | [jen_abbott](./jen_abbott/) |
 | <img src="./RikuA/isometricHamsterRoom.png" height="150" /> | [Riku A](./RikuA/) |
 | <img src="./CaptainQuertz/untitled1_2.png" height="150" /> | [Captain Quertz](./CaptainQuertz/) |
 | <img src="./Thecocodu62/03.gif" height="150" /> | [Thecocodu62](./Thecocodu62/) |
