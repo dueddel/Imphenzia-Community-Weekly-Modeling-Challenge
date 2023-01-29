@@ -5,6 +5,8 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2023 Themes
 
+* [Week 4: `Microscopic`](./2023/4/)
+* [Week 3: `Yellow`](./2023/3/)
 * [Week 2: `Car`](./2023/2/)
 * [Week 1: `Isometric room`](./2023/1/)
 
