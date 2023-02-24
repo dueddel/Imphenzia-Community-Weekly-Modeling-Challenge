@@ -5,6 +5,9 @@ Here you can find all challenges' themes sorted by calendar week (in reverse ord
 
 ## 2023 Themes
 
+* [Week 8: `Lighthouse`](./2023/8/)
+* [Week 7: `Hospital`](./2023/7/)
+* [Week 6: `Churches and Temples`](./2023/6/)
 * [Week 5: `Hands`](./2023/5/) ⭐
 * [Week 4: `Microscopic`](./2023/4/)
 * [Week 3: `Yellow`](./2023/3/)
