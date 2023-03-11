@@ -1,10 +1,12 @@
 # Weekly Modeling Challenge of the Imphenzia Discord community
 
-Here you can find all challenges' themes sorted by calendar week (in reverse order to always have the latest one at the top).
+Here you can find all challenges' themes sorted by calendar week (the latest one at the top). Themes that are marked with a ⭐ have been announced as emoji challenges.
 
 
 ## 2023 Themes
 
+* [Week 10: `Bird`](./2023/10/)
+* [Week 9: `Lantern`](./2023/9/) ⭐
 * [Week 8: `Lighthouse`](./2023/8/)
 * [Week 7: `Hospital`](./2023/7/)
 * [Week 6: `Churches and Temples`](./2023/6/)
