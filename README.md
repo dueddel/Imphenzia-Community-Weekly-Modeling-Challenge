@@ -5,6 +5,9 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 16: `Air Planes`](./2023/16/)
+* [Week 15: `Boats`](./2023/15/)
+* [Week 14: `Trains`](./2023/14/)
 * [Week 13: `Alien`](./2023/13/)
 * [Week 12: `Chess`](./2023/12/)
 * [Week 11: `LEGO`](./2023/11/)
