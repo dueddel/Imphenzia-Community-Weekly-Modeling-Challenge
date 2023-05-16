@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 20: `Safari Animal`](./2023/20/)
 * [Week 19: `Kitchen`](./2023/19/)
 * [Week 18: `Playground`](./2023/18/)
 * [Week 17: `Spaceships`](./2023/17/)
