@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 25: `School`](./2023/25/)
 * [Week 24: `Red`](./2023/24/)
 * [Week 23: `Cyberpunk City`](./2023/23/)
 * [Week 22: `Video game console`](./2023/22/)
