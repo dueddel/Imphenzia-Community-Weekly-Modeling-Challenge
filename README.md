@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 30: `Surgery`](./2023/30/)
 * [Week 29: `Ruins`](./2023/29/)
 * [Week 28: `Spider`](./2023/28/)
 * [Week 27: `Circus`](./2023/27/)
