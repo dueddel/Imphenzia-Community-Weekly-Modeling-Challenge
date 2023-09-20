@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 34: `Garden`](./2023/34/)
 * [Week 33: `Racing Car`](./2023/33/)
 * [Week 32: `Gun`](./2023/32/)
 * [Week 31: `Nun`](./2023/31/)
