@@ -16,3 +16,4 @@
 | <img src="./jen_abbott/supermarket-sep2023-jsa.png" height="150" /> | [jen_abbott](./jen_abbott/) |
 | <img src="./OnConsoleGamerX/supermarket.png" height="150" /> | [OnConsoleGamerX](./OnConsoleGamerX/) |
 | <img src="./Chreser/untitled.png" height="150" /> | [Chreser](./Chreser/) |
+| <img src="./Shiznitts/untitled.png" height="150" /> | [Shiznitts](./Shiznitts/) |
