@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 38: `Swords`](./2023/38/)
 * [Week 37: `Superhero vs. Supervillain`](./2023/37/)
 * [Week 36: `Supermarket`](./2023/36/)
 * [Week 35: `Cockpit`](./2023/35/)
