@@ -15,6 +15,9 @@
 | <img src="./TheRandomCrafter83/sword.png" height="150" /> | [TheRandomCrafter83/CoderzF1](./TheRandomCrafter83/) |
 | <img src="./betovf/big-sword.png" height="150" /> | [betovf](./betovf/) |
 | <img src="./Magnamura/Sword.png" height="150" /> | [Magnamura](./Magnamura/) |
-| <img src="./FLATBLAKHOTROD_3/Lightsaber_010.png" height="150" /> | [FLATBLAKHOTROD_3](./FLATBLAKHOTROD_3/) |
+| <img src="./FLATBLAKHOTROD_3/Lightsaber_012.png" height="150" /> | [FLATBLAKHOTROD_3](./FLATBLAKHOTROD_3/) |
 | <img src="./Zenith/swordsman.png" height="150" /> | [Zenith](./Zenith/) |
 | <img src="./TheRandomCrafter83/sword2.png" height="150" /> | [TheRandomCrafter83/CoderzF1](./TheRandomCrafter83/) |
+| <img src="./jen_abbott/sword-sep2023-jsa.png" height="150" /> | [jen_abbott](./jen_abbott/) |
+| <img src="./tsahel/gladius.png" height="150" /> | [tsahel](./tsahel/) |
+| <img src="./GrindillKhan/Weekly_09-17-23_Sword_GrindillKhan_01.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
