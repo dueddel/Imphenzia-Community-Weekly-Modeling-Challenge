@@ -14,3 +14,8 @@
 | <img src="./GrindillKhan/Weekly_09-25-23_Sword_GrindillKhan_01.jpg" height="150" /> | [GrindillKhan](./GrindillKhan/) |
 | <img src="./TheRandomCrafter83/Drone.png" height="150" /> | [TheRandomCrafter83/CoderzF1](./TheRandomCrafter83/) |
 | <img src="./Shiznitts/Screenshot_2023-09-26_120355.png" height="150" /> <img src="./Shiznitts/Screenshot_2023-09-26_120532.png" height="150" /> <img src="./Shiznitts/Screenshot_2023-09-26_121150.png" height="150" /> <img src="./Shiznitts/Screenshot_2023-09-26_122020.png" height="150" /> | [Shiznitts](./Shiznitts/) |
+| <img src="./BugeyeJones/drone_.jpg" height="150" /> | [BugeyeJones](./BugeyeJones/) |
+| <img src="./FLATBLAKHOTROD_3/Robot_pod_013.png" height="150" /> <img src="./FLATBLAKHOTROD_3/Robot_pod_014.png" height="150" /> | [FLATBLAKHOTROD_3](./FLATBLAKHOTROD_3/) |
+| <img src="./Captainlazy/untitled.png" height="150" /> | [Captain lazy](./Captainlazy/) |
+| <img src="./GhostyFab/drohne_textured_subdiv_03.png" height="150" /> | [GhostyFab](./GhostyFab/) |
+| <img src="./Bobikas/zchallenge-drone01.png" height="150" /> | [Bobikas](./Bobikas/) |
