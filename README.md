@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 41: `Blue`](./2023/41/)
 * [Week 40: `Sports Equipment`](./2023/40/)
 * [Week 39: `Drones`](./2023/39/)
 * [Week 38: `Swords`](./2023/38/)
