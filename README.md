@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 44: `Party`](./2023/44/)
 * [Week 43: `Graveyard/Crypt`](./2023/43/)
 * [Week 42: `Hotel`](./2023/42/)
 * [Week 41: `Blue`](./2023/41/)
