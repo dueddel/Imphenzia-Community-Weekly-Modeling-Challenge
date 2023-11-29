@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 48: `Living room`](./2023/48/)
 * [Week 47: `Fear`](./2023/47/)
 * [Week 46: `Bearded face`](./2023/46/)
 * [Week 45: `Bear`](./2023/45/)
