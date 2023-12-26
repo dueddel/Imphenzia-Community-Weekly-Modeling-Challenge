@@ -5,6 +5,9 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2023 Themes
 
+* [Week 51: `Interactable objects`](./2023/51/)
+* [Week 50: `Environment`](./2023/50/)
+* [Week 49: `Player character`](./2023/49/)
 * [Week 48: `Living room`](./2023/48/)
 * [Week 47: `Fear`](./2023/47/)
 * [Week 46: `Bearded face`](./2023/46/)
