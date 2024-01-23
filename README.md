@@ -3,6 +3,10 @@
 Here you can find all challenges' themes sorted by calendar week (the latest one at the top). Themes that are marked with a ⭐ have been announced as emoji challenges.
 
 
+## 2024 Themes
+
+* [Week 1: `Portal`](./2024/1/)
+
 ## 2023 Themes
 
 * [Week 51: `Interactable objects`](./2023/51/)
