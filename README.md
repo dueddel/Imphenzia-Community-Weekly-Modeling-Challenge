@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2024 Themes
 
+* [Week 4: `Cheese`](./2024/4/)
 * [Week 3: `Fitness`](./2024/3/)
 * [Week 2: `Historic mill`](./2024/2/)
 * [Week 1: `Portal`](./2024/1/)
