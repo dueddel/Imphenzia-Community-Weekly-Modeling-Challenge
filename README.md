@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2024 Themes
 
+* [Week 7: `Metro`](./2024/7/)
 * [Week 6: `The four elements`](./2024/6/)
 * [Week 5: `Military vehicle`](./2024/5/)
 * [Week 4: `Cheese`](./2024/4/)
