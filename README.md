@@ -1,7 +1,5 @@
 # Weekly Modeling Challenge of the Imphenzia Discord community
 
-Here you can find all challenges' themes sorted by calendar week (the latest one at the top). Themes that are marked with a ⭐ have been announced as emoji challenges.
-
 
 ## 2024 Themes
 
@@ -14,6 +12,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 * [Week 3: `Fitness`](./2024/3/)
 * [Week 2: `Historic mill`](./2024/2/)
 * [Week 1: `Portal`](./2024/1/)
+
 
 ## 2023 Themes
 
@@ -130,3 +129,17 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 * Week 52: `Tanks`
 * Week 51: `Sci-Fi Mecha`
+
+
+## Note
+
+Themes that a ⭐ has been added to were emoji challenges. An emoji challenge as we called it in the Imphenzia Discord server was about not only modeling but also about rendering small images that potentially were to be added to the Discord as emojis.
+
+
+## Another note
+
+All 3D models in this repository can be downloaded for personal use only, not for commercial or distributional purposes. Feel free to use them for studying Blender workflows and for learning modeling techniques, for example.
+
+Copyright owner of each .blend file is the corresponding creator. You should not edit or republish any of the 3D models or any other assets that might be packed into the .blend files elsewhere without permission of the respective owner. You can find them by their name in the Imphenzia Discord server (unless they changed their names or left the server).
+
+Just use the Discord search feature or ask for them in chat to get in touch.
