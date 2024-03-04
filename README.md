@@ -5,6 +5,7 @@ Here you can find all challenges' themes sorted by calendar week (the latest one
 
 ## 2024 Themes
 
+* [Week 9: `Barbarian`](./2024/9/)
 * [Week 8: `Dinner`](./2024/8/)
 * [Week 7: `Metro`](./2024/7/)
 * [Week 6: `The four elements`](./2024/6/)
