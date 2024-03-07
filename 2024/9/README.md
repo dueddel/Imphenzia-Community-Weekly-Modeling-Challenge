@@ -15,3 +15,4 @@
 | <img src="./AspenDev/image.png" height="150" /> | [AspenDev](./AspenDev/) |
 | <img src="./FLATBLAKHOTROD_3/Barb_06.png" height="150" /> | [FLATBLAKHOTROD_3](./FLATBLAKHOTROD_3/) |
 | <img src="./RikuA/barbari.png" height="150" /> | [Riku A](./RikuA/) |
+| <img src="./tsahel/barbarian-weapon-020324.png" height="150" /> | [tsahel](./tsahel/) |
