@@ -3,6 +3,7 @@
 
 ## 2024 Themes
 
+* [Week 12: `Triangle`](./2024/12/)
 * [Week 11: `Purple`](./2024/11/)
 * [Week 10: `Evil Villain Lair`](./2024/10/)
 * [Week 9: `Barbarian`](./2024/9/)
