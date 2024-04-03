@@ -3,6 +3,8 @@
 
 ## 2024 Themes
 
+* [Week 14: `Vacuum cleaner`](./2024/14/)
+* Week 13: `Bathroom`
 * [Week 12: `Triangle`](./2024/12/)
 * [Week 11: `Purple`](./2024/11/)
 * [Week 10: `Evil Villain Lair`](./2024/10/)
