@@ -1,3 +1,6 @@
+> This repository has been archived on May 5th 2024.
+
+
 # Weekly Modeling Challenge of the Imphenzia Discord community
 
 
